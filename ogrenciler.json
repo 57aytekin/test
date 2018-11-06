@@ -1,0 +1,56 @@
+{"ogrenciler":[
+	{
+		"ogrenciNo":"1",
+		"ogrenciAdi":"Aytekin",
+		"ogrenciSoyad":"Çömez",
+		"bolumAdi":"Ybs",
+		"okulAdi":"Adü",
+		"ogreciSinif":"4",
+		"ogrenciResim":"https://www.edukanada.com/wp-content/uploads/2017/06/sturdy-permit-ogrenci-vizesi.jpg"
+	},
+	{
+		"ogrenciNo":"2",
+		"ogrenciAdi":"Ali",
+		"ogrenciSoyad":"All",
+		"bolumAdi":"Uluslararasi Ticaret",
+		"okulAdi":"Adü",
+		"ogreciSinif":"2",
+		"ogrenciResim":"https://cdn.ogrenmen.com/wp-content/uploads/2014/06/%C3%B6%C4%9Frenci.jpg"
+	},
+	{
+		"ogrenciNo":"3",
+		"ogrenciAdi":"Mehmet",
+		"ogrenciSoyad":"Fethi",
+		"bolumAdi":"Uti",
+		"okulAdi":"Adü",
+		"ogreciSinif":"1",
+		"ogrenciResim":"https://www.edukanada.com/wp-content/uploads/2017/06/sturdy-permit-ogrenci-vizesi.jpg"
+	},
+	{
+		"ogrenciNo":"4",
+		"ogrenciAdi":"Aytekin",
+		"ogrenciSoyad":"Çömez",
+		"bolumAdi":"Ybs",
+		"okulAdi":"Adü",
+		"ogreciSinif":"4",
+		"ogrenciResim":"https://kanadakulturmerkezi.com/wp-content/uploads/2014/04/Kanada%C3%96%C4%9FrenciVizesi.jpg"
+	},
+	{
+		"ogrenciNo":"5",
+		"ogrenciAdi":"Ali",
+		"ogrenciSoyad":"All",
+		"bolumAdi":"Uluslararasi Ticaret",
+		"okulAdi":"Adü",
+		"ogreciSinif":"2",
+		"ogrenciResim":"https://cdn.ogrenmen.com/wp-content/uploads/2014/06/%C3%B6%C4%9Frenci.jpg"
+	},
+	{
+		"ogrenciNo":"6",
+		"ogrenciAdi":"Mehmet",
+		"ogrenciSoyad":"Fethi",
+		"bolumAdi":"Uti",
+		"okulAdi":"Adü",
+		"ogreciSinif":"1",
+		"ogrenciResim":"https://kanadakulturmerkezi.com/wp-content/uploads/2014/04/Kanada%C3%96%C4%9FrenciVizesi.jpg"
+	}
+]}
